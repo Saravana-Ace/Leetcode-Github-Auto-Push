@@ -45,7 +45,7 @@ Automatically have your LeetCode submissions pushed to your GitHub repository. K
 
 ## How It Works
 
-- The application checks for new LeetCode submissions every 30 seconds
+- The application checks for new LeetCode submissions every 30 seconds (can change this)
 - When a new submission is detected, it automatically:
   - Downloads the submission code
   - Creates a Python file with the problem name
